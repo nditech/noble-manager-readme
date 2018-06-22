@@ -5,7 +5,7 @@ As a manager, on-boarding is both tough and really important whether you’re jo
 * Build trust
 
 # My leadership compass
-I’m here to help and support you, to set context for what you’re working on, and to advocate for you and the team with the rest of the Institute. I intend to lead by setting the example. I will inspire through coaching, mentoring  and laying frameworks on helping my scrum team ship quality code more often. I will not ask you to do something that I’m not willing to do, or that I haven’t done before. My responsibility is you, your welfare, and your ability to execute upon the mission. By listening to your concerns and recognizing your achievements, I strive to make you a fulfilled, efficient, and productive member of our team.
+I’m here to help and support you, to set context for what you’re working on, and to advocate for you and the team with the rest of the Institute. I intend to lead by setting the example. I will inspire through [coaching, mentoring](https://drive.google.com/drive/folders/16fcVOr5BMqT2V44Ry5VoFpaP5AitomnC)  and [laying frameworks](https://nditech.github.io/git-styleguide/) to helping my scrum team ship quality code more often. I will not ask you to do something that I’m not willing to do, or that I haven’t done before. My responsibility is you, your welfare, and your ability to execute upon the mission. By listening to your concerns and recognizing your achievements, I strive to make you a fulfilled, efficient, and productive member of our team.
 
 # Personal Idiosyncrasies	
 I’m excited when teams fail fast, learn from their mistakes, course correct and share that knowledge with others. This builds an environment that does not fear risk-taking, develops ownership and autonomy in their work, and is collaborative at its core.
@@ -28,7 +28,7 @@ The scrum team works between 9am (at the earliest) to 6pm (at the latest), and u
 
 # Performance 
 
-I am a proponent of the [DRI model](https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice/answer/Gloria-Lin?share=365d759d&srid=dnJ).
+I am a proponent of the [DRI model](https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice/answer/Gloria-Lin?share=365d759d&srid=dnJ)...
 
 
 # Your Philosophies

@@ -1,4 +1,4 @@
-# Noble as your {Senior Manager for Product and Technology}
+# Noble as your Senior Manager for Product and Technology
 As a manager, on-boarding is both tough and really important whether you’re joining a team or they’re joining yours. My very short list for on-boarding in either direction is:
 
 * Share expectations

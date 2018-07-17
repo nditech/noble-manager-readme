@@ -28,7 +28,7 @@ The scrum team works between 9am (at the earliest) to 6pm (at the latest), and u
 
 # Performance 
 
-I am a proponent of the [DRI model](https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice/answer/Gloria-Lin?share=365d759d&srid=dnJ)...
+I am a proponent of the [DRI model](https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice/answer/Gloria-Lin?share=365d759d&srid=dnJ) and I'd expect us to measure your performance through [Objective Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/). We'll meet quarterly to guage and score how you're doing with your OKRs.
 
 
 # Your Philosophies
